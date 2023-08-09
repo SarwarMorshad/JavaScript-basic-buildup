@@ -58,7 +58,7 @@ const values = Object.values(shoppingCart);
 }
  */
 //Using For in loop // Easy
-/* for (var propertyName in shoppingCart) {
+for (var propertyName in shoppingCart) {
   const values = shoppingCart[propertyName];
   console.log(propertyName, values);
-} */
+}
