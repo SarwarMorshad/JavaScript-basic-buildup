@@ -178,4 +178,4 @@ function add(num1, num2) {
 }
 
 const result = add(10, "20");
-console.log(result);
+// console.log(result);
