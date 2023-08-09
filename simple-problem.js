@@ -68,4 +68,4 @@ function onlyPositive(numbers) {
 
 const numbers = [10, 20, -22, 12, 11];
 const result = onlyPositive(numbers);
-console.log(result);
+// console.log(result);
